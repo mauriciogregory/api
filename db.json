@@ -8,7 +8,7 @@
     },
     {
       "id": 2,
-      "title": "Laranja",
+      "titulo": "Laranja",
       "Descricao": "Suco natural",
       "Preco": 3.50
     }
@@ -16,11 +16,15 @@
   "bebidas": [
     {
       "id": 3,
-      "body": "some comment"
+      "titulo": "Red",
+      "Descricao": "Energético",
+      "Preco": 8.50
     },
     {
       "id": 4,
-      "body": "some comment"
+      "titulo": "Guaraná",
+      "Descricao": "Refrigerante",
+      "Preco": 7.00
     }
   ]
 }
