@@ -1,31 +1,26 @@
 {
-  "posts": [
+  "sucos": [
     {
       "id": 1,
-      "title": "Post 1"
+      "titulo": "Uva",
+      "Descricao": "Suco natural",
+      "Preco": 4.50
     },
     {
       "id": 2,
-      "title": "Post 2"
-    },
+      "title": "Laranja",
+      "Descricao": "Suco natural",
+      "Preco": 3.50
+    }
+  ],
+  "bebidas": [
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "body": "some comment"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "body": "some comment"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
