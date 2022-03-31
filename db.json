@@ -1,1 +1,11 @@
-
+{
+    "users": [{
+        "id": 1,
+        "name": "User",
+        "location": "Brazil"
+    }, {
+        "id": 2,
+        "name": "User2",
+        "location": "Canadá"
+    }]
+}
