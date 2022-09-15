@@ -1,3 +1,35 @@
-{
-  "products": [{"id":1,"title":"Bateria Acústica Premium DX722 Bumbo 22","description":"Bateria com pratos de alta tecnologia, para iniciantes.","price":2000.0,"image":"www.imagem.com","categories":{"id":1,"nome":"Percussão"}},{"id":2,"title":"Flauta","description":"Instrumento de ótima qualidade","price":800.0,"image":"www.imagem.com","categories":{"id":2,"nome":"Sopro"}},{"id":3,"title":"Violão","description":"GIANNINI N-14Bk Violão Acústico Preto","price":312.21,"image":"https://m.media-amazon.com/images/I/419CgWR0hkL._AC_.jpg","categories":{"id":3,"nome":"Corda"}},{"id":4,"title":"Bateria","description":"Bateria Acústica 2 Tons ESL Prata NY F1rst","price":2.289,"image":"https://m.media-amazon.com/images/I/61opBmhlcqL._AC_SX679_.jpg","categories":{"id":1,"nome":"Percussão"}},{"id":5,"title":"Clarinete","description":"Baquelite 17 Chave B ♭ Chapeamento de Níquel Soprano","price":589.0,"image":"https://m.media-amazon.com/images/I/21taTbkiPOL._AC_US40_.jpg","categories":{"id":2,"nome":"Sopro"}},{"id":6,"title":"Ukulele","description":"Ukulele Soprano","price":378.0,"image":"https://m.media-amazon.com/images/I/61LhvZallaL._AC_SX679_.jpg","categories":{"id":3,"nome":"Corda"}},{"id":7,"title":"Piano","description":"Piano Digital Alesis Virtue 88 teclas com pedais, suporte e banco ajustável","price":5.1,"image":"https://m.media-amazon.com/images/I/61lbv4V2lPS._AC_SX679_.jpg","categories":{"id":4,"nome":"Teclas"}},{"id":8,"title":"Teclado","description":"TECLADO PIANO MUSICAL ELETRÔNICO YAMAHA PSS-F30","price":533.83,"image":"https://m.media-amazon.com/images/I/61OBGRe1dWS._AC_SX679_.jpg","categories":{"id":4,"nome":"Teclas"}},{"id":9,"title":"Cavaco","description":"CAVACO ROZINI ESTUDANTE ELETRICO NATURAL RC09ELN","price":699.0,"image":"https://m.media-amazon.com/images/I/51OT7lXN50L._AC_SX679_.jpg","categories":{"id":3,"nome":"Corda"}},{"id":10,"title":"Flauta","description":"Flauta Doce Soprano Barroca C, Yamaha, YRS-24B","price":56.75,"image":"https://m.media-amazon.com/images/I/41YA2rSViNL._AC_SX679_.jpg","categories":{"id":2,"nome":"Sopro"}},{"id":11,"title":"Reco-Reco","description":"Reco Reco Spanking 02 molas Alumínio","price":68.99,"image":"https://m.media-amazon.com/images/I/61EB151tMnL._AC_SX679_.jpg","categories":{"id":1,"nome":"Percussão"}},{"id":12,"title":"Pandeiro","description":"PANDEIRO CONTEMPORANEA LIGHT 82LT 10 POL MADEIRA NYLON","price":166.0,"image":"https://m.media-amazon.com/images/I/51lgbtiqbYS._AC_SX679_.jpg","categories":{"id":1,"nome":"Percussão"}},{"id":13,"title":"Violão","description":"Violão Acústico Clássico Nylon C40MII Natural YAMAHA, Yamaha, C40MII","price":859.0,"image":"https://m.media-amazon.com/images/I/61dtUAwnZqL._AC_SX679_.jpg","categories":{"id":3,"nome":"Corda"}},{"id":14,"title":"Violino","description":"Violino Vivace Mozart Mo44 4/4 Com Case Luxo","price":457.0,"image":"https://m.media-amazon.com/images/I/81dh+FvQUKL._AC_SX679_.jpg","categories":{"id":3,"nome":"Corda"}}]
-}
+[
+  {
+    "id": 1,
+    "marca": "Apple",
+    "nome": "iPhone 10",
+    "descricao": "Produto novo",
+    "estoque": 5,
+    "valor": 5566.67,
+    "categoria": "Celulares",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730284-MLA46114648018_052021-V.jpg",
+    "venda": []
+  },
+  {
+    "id": 2,
+    "marca": "Apple",
+    "nome": "iPhone 13",
+    "descricao": "Produto novo",
+    "estoque": 15,
+    "valor": 6400.01,
+    "categoria": "Celulares",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730284-MLA46114648018_052021-V.jpg",
+    "venda": []
+  },
+  {
+    "id": 3,
+    "marca": "Apple",
+    "nome": "iPhone 8",
+    "descricao": "Produto novo",
+    "estoque": 10,
+    "valor": 3400.01,
+    "categoria": "Celulares",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_744900-MLA43711395796_102020-V.jpg",
+    "venda": []
+  }
+]
