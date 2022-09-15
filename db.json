@@ -9,7 +9,6 @@
     "valor": 5566.67,
     "categoria": "Celulares",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_730284-MLA46114648018_052021-V.jpg",
-    "venda": []
   },
   {
     "id": 2,
@@ -20,7 +19,6 @@
     "valor": 6400.01,
     "categoria": "Celulares",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_730284-MLA46114648018_052021-V.jpg",
-    "venda": []
   },
   {
     "id": 3,
@@ -31,7 +29,6 @@
     "valor": 3400.01,
     "categoria": "Celulares",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_744900-MLA43711395796_102020-V.jpg",
-    "venda": []
   }
 ]
 }
