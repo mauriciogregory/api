@@ -1,6 +1,5 @@
-
-    [
-    {
+[
+  {
     "id": 1,
     "marca": "Apple",
     "nome": "iPhone 10",
@@ -33,4 +32,4 @@
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_744900-MLA43711395796_102020-V.jpg",
     "venda": []
   }
- ]
+]
