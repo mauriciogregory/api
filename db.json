@@ -1,4 +1,4 @@
-"produtos" : [
+{"produtos" : [
   {
     "id": 1,
     "marca": "Apple",
@@ -33,3 +33,4 @@
     "venda": []
   }
 ]
+}
