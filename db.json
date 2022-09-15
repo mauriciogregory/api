@@ -1,4 +1,5 @@
-{[
+{
+  "Produtos" : [
   {
     "id": 1,
     "marca": "Apple",
